@@ -7,12 +7,12 @@
 	PAF实时预测模型，数据：PAF2001预测挑战赛公开数据集
 	
 #目录结构
-* src
+* src 源码
 	- 
 	-
-* data
+* data 数据
 	- 
 	-
-* model
+* model 模型
 	- 
 	-
